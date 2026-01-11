@@ -21,3 +21,7 @@ The dashboard provides interactive insights based on installs, ratings, reviews,
 3.To compare free and paid application trends
 4.To understand app maintenance and update patterns
 
+💡 Suggestions
+- Focus on high-install categories for better reach  
+- Prefer free or freemium models for higher adoption  
+- Maintain regular updates to improve ratings and engagement
